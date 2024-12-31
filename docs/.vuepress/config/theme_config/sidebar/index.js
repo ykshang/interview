@@ -1,4 +1,4 @@
-let interview= require('./interview');
+let basic= require('./basic');
 let welcome = {
   title: 'Hello Word！',
   path: '/guide/'
@@ -15,5 +15,5 @@ module.exports = [
   //   ]
   // },
   welcome,
-  interview
+  basic
 ]
