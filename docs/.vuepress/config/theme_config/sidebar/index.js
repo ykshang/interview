@@ -1,4 +1,5 @@
-let basic= require('./basic');
+const basic= require('./basic');
+const vue = require('./vue');
 let welcome = {
   title: 'Hello Word！',
   path: '/guide/'
@@ -15,5 +16,6 @@ module.exports = [
   //   ]
   // },
   welcome,
-  basic
+  basic,
+  vue
 ]
