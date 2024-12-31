@@ -1,4 +1,4 @@
 module.exports = {
-  text: '常见面试题',
+  text: 'JS基础',
   link: '/basic/index'
 }

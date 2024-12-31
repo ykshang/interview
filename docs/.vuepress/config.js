@@ -1,5 +1,5 @@
 module.exports = {
-  title: '个人笔记', // 导航栏左侧的标题
+  title: '常见面试题', // 导航栏左侧的标题
   base: '/interview/',
   head: [
     ['link', { rel: 'shortcut icon', type: "image/x-icon", href: "/logo.png" }] // 网页favicon
