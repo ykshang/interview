@@ -6,5 +6,8 @@ module.exports = {
   }, {
     title: '内存泄漏',
     path: '/basic/2'
+  }, {
+    title: '箭头函数和普通函数的区别',
+    path: '/basic/3'
   }]
 }
