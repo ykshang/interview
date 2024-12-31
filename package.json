@@ -1,0 +1,37 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykshang/interview.git"
+  },
+  "author": {
+    "name": "kangkang shang",
+    "email": "535634238@qq.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykshang/interview/issues"
+  },
+  "homepage": "https://github.com/ykshang/interview#readme",
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-vue": "^7.4.0"
+  },
+  "dependencies": {
+    "async-validator": "^1.11.5",
+    "element-ui": "^2.14.1",
+    "vuepress": "^1.7.1",
+    "vuepress-plugin-gotop-plus": "^1.0.4",
+    "vuepress-plugin-helper-live2d": "^1.0.2",
+    "vuepress-plugin-reading-progress": "^1.0.10"
+  }
+}
