@@ -9,5 +9,8 @@ module.exports = {
   }, {
     title: '3. 箭头函数和普通函数的区别',
     path: '/basic/3'
+  }, {
+    title: '4. 跨域专题',
+    path: '/basic/4'
   }]
 }
