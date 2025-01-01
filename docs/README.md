@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /hero.gif
-heroText: kangkang 的学习笔记
-tagline: 记录个人技术栈学习记录和心得
+heroText: 常见面试题
+tagline: 梳理常见面试题
 actionText: 开始阅读
 actionLink: /guide/
 features:
