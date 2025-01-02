@@ -1,5 +1,6 @@
 let basic= require('./basic');
 let vue= require('./vue');
+let network= require('./network');
 
 let welcome = {
   text: '欢迎',
@@ -10,5 +11,6 @@ let welcome = {
 module.exports = [
   welcome,
   basic,
-  vue
+  vue,
+  network
 ];

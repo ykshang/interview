@@ -1,5 +1,7 @@
 const basic= require('./basic');
 const vue = require('./vue');
+const network = require('./network');
+
 let welcome = {
   title: 'Hello Word！',
   path: '/guide/'
@@ -8,7 +10,8 @@ let welcome = {
 module.exports = [
   welcome,
   basic,
-  vue
+  vue,
+  network
 ]
   // {
     //   title: 'Group 1',   // 必要的
