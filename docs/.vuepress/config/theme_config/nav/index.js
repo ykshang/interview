@@ -2,7 +2,7 @@ let JavaScript= require('./JavaScript');
 let vue= require('./vue');
 let network= require('./network');
 let basic= require('./basic');
-
+let Browser= require('./Browser');
 
 let welcome = {
   text: '欢迎',
@@ -15,5 +15,6 @@ module.exports = [
   JavaScript,
   vue,
   network,
-  basic
+  basic,
+  Browser
 ];
