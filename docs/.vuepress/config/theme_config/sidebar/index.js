@@ -12,6 +12,12 @@ module.exports = [{
   title: 'Hello Word！',
   path: '/guide/'
 }, {
+  title: '网页基础',
+  children: [{
+    title: '1. 深拷贝和浅拷贝',
+    path: '/browser/1'
+  }]
+},{
   title: 'JS基础',
   children: [{
     title: '1. 深拷贝和浅拷贝',

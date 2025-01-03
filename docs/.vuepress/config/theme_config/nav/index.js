@@ -7,6 +7,10 @@ module.exports = [{
   text: '目录',
   items: [
     {
+      
+      text: '网页基础',
+      link: '/browser/index'
+    },{
       text: 'JS基础',
       link: '/JavaScript/index'
     },{
