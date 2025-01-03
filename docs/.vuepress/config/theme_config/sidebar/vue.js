@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Vue',
+  title: 'Vue相关',
   children: [{
     title: '1. Vue的组件通信',
     path: '/vue/1'

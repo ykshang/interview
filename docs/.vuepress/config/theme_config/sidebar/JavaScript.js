@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'JS基础相关',
+  title: 'JS基础',
   children: [{
     title: '1. 深拷贝和浅拷贝',
     path: '/JavaScript/1'
