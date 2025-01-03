@@ -1,20 +1,20 @@
-let JavaScript= require('./JavaScript');
-let vue= require('./vue');
-let network= require('./network');
-let basic= require('./basic');
-let Browser= require('./Browser');
-
-let welcome = {
-  text: '欢迎',
-  link: '/guide/'
-};
 
 // 导航栏配置
-module.exports = [
-  welcome,
-  JavaScript,
-  vue,
-  network,
-  basic,
-  Browser
-];
+module.exports = [{
+  text: '欢迎',
+  link: '/guide/'
+}, {
+  text: '目录',
+  items: [
+    {
+      text: 'JS基础',
+      link: '/JavaScript/index'
+    },{
+      text: 'Vue相关',
+      link: '/vue/index'
+    },{
+      text: '网络相关',
+      link: '/network/index'
+    }
+  ]
+}];
