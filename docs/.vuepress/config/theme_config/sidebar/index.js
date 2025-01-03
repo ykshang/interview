@@ -1,6 +1,7 @@
 const JavaScript= require('./JavaScript');
 const vue = require('./vue');
 const network = require('./network');
+const basic = require('./basic');
 
 let welcome = {
   title: 'Hello Word！',
@@ -11,7 +12,8 @@ module.exports = [
   welcome,
   JavaScript,
   vue,
-  network
+  network,
+  basic
 ]
   // {
     //   title: 'Group 1',   // 必要的
