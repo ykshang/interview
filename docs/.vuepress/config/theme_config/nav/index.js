@@ -8,16 +8,16 @@ module.exports = [{
   items: [
     {
       
-      text: '网页基础',
+      text: '1. 网页基础',
       link: '/browser/index'
     },{
-      text: 'JS基础',
+      text: '2. JS基础',
       link: '/JavaScript/index'
     },{
-      text: 'Vue相关',
+      text: '3. Vue相关',
       link: '/vue/index'
     },{
-      text: '网络相关',
+      text: '4. 网络相关',
       link: '/network/index'
     }
   ]
