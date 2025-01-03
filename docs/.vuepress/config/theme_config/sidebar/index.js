@@ -14,8 +14,11 @@ module.exports = [{
 }, {
   title: '网页基础',
   children: [{
-    title: '1. 深拷贝和浅拷贝',
+    title: '1. 重绘和重排（回流）',
     path: '/browser/1'
+  }, {
+    title: '2. 浏览器中输入URL到页面显示的全过程',
+    path: '/browser/2'
   }]
 },{
   title: 'JS基础',
