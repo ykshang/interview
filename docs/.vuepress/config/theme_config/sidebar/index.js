@@ -1,4 +1,4 @@
-const basic= require('./basic');
+const JavaScript= require('./JavaScript');
 const vue = require('./vue');
 const network = require('./network');
 
@@ -9,7 +9,7 @@ let welcome = {
 // 侧边栏配置
 module.exports = [
   welcome,
-  basic,
+  JavaScript,
   vue,
   network
 ]

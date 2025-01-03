@@ -1,4 +1,4 @@
-let basic= require('./basic');
+let JavaScript= require('./JavaScript');
 let vue= require('./vue');
 let network= require('./network');
 
@@ -10,7 +10,7 @@ let welcome = {
 // 导航栏配置
 module.exports = [
   welcome,
-  basic,
+  JavaScript,
   vue,
   network
 ];
