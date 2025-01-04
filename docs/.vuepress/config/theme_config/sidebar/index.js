@@ -34,6 +34,9 @@ module.exports = [{
   }, {
     title: '4. 跨域专题',
     path: '/JavaScript/4'
+  }, {
+    title: '5. typeof和instanceof的区别',
+    path: '/JavaScript/5'
   }]
 }, {
   title: 'Vue相关',
