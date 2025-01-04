@@ -39,7 +39,7 @@ module.exports = [{
     path: '/JavaScript/5'
   }, {
     title: '6. 数据类型的隐式转换',
-    path: '/JavaScript/6'
+    path: '/JavaScript/6' 
   }, {
     title: '7. 闭包',
     path: '/JavaScript/7'
