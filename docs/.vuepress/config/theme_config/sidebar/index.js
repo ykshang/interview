@@ -55,6 +55,9 @@ module.exports = [{
   }, {
     title: '11. 对象的集成',
     path: '/JavaScript/11'  
+  }, {
+    title: '12. 模块化开发',
+    path: '/JavaScript/12'  
   }]
 }, {
   title: 'Vue相关',
