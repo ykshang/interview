@@ -14,11 +14,11 @@ export default {
     };
   },
   mounted () {
-    if (this.b === '') {
-      this.contentStyle = 'basic bold';
-    } else {
-      this.contentStyle = 'basic';
-    }
+    this.contentStyle = 'basic bold';
+    // if (this.b === '') {
+    //   this.contentStyle = 'basic';
+    // } else {
+    // }
   }
 };
 </script>
