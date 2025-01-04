@@ -20,7 +20,7 @@ module.exports = [{
     title: '2. 浏览器中输入URL到页面显示的全过程',
     path: '/browser/2'
   }]
-},{
+}, {
   title: 'JS基础',
   children: [{
     title: '1. 深拷贝和浅拷贝',
@@ -39,7 +39,7 @@ module.exports = [{
     path: '/JavaScript/5'
   }, {
     title: '6. 数据类型的隐式转换',
-    path: '/JavaScript/6' 
+    path: '/JavaScript/6'
   }, {
     title: '7. 闭包',
     path: '/JavaScript/7'
@@ -54,10 +54,16 @@ module.exports = [{
     path: '/JavaScript/10'
   }, {
     title: '11. 对象的集成',
-    path: '/JavaScript/11'  
+    path: '/JavaScript/11'
   }, {
     title: '12. 模块化开发',
-    path: '/JavaScript/12'  
+    path: '/JavaScript/12'
+  }, {
+    title: '13. 事件委托',
+    path: '/JavaScript/13'
+  }, {
+    title: '14. 事件冒泡',
+    path: '/JavaScript/14'
   }]
 }, {
   title: 'Vue相关',
