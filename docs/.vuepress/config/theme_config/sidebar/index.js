@@ -37,6 +37,9 @@ module.exports = [{
   }, {
     title: '5. typeof和instanceof的区别',
     path: '/JavaScript/5'
+  }, {
+    title: '6. 数据类型的隐式转换',
+    path: '/JavaScript/6'
   }]
 }, {
   title: 'Vue相关',
