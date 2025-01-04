@@ -6,5 +6,8 @@
 
 ``` vue
 <Codes>element.addEventListener</Codes>
+<Codes b>element.addEventListener</Codes>
 ```
-显示效果：<Codes s b>element.addEventListener</Codes>
+**显示效果：**
+<Codes>element.addEventListener</Codes>
+<Codes b>element.addEventListener</Codes>

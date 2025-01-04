@@ -26,7 +26,7 @@ export default {
 .basic {
   display: inline-block;
   margin: auto 2px;
-  padding: 1px 4px;
+  padding: 2px 4px;
   font-size: 85%;
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
   background-color: #ffeee8;
