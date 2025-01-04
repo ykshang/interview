@@ -52,7 +52,9 @@ module.exports = [{
   }, {
     title: '10. 原型链',
     path: '/JavaScript/10'
-    
+  }, {
+    title: '11. 对象的集成',
+    path: '/JavaScript/11'  
   }]
 }, {
   title: 'Vue相关',
