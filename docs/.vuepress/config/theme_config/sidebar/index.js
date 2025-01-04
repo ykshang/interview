@@ -43,6 +43,9 @@ module.exports = [{
   }, {
     title: '7. 闭包',
     path: '/JavaScript/7'
+  }, {
+    title: '8. 作用域与作用域链',
+    path: '/JavaScript/8'
   }]
 }, {
   title: 'Vue相关',
