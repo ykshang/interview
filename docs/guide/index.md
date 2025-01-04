@@ -1,17 +1,10 @@
 # Hello Word！
 
-梳理常见面试题
+## 组件清单
 
-# 主要内容
+1. Codes
 
-## JS基础
-::: tip 描述
-[查看文档](../basic/)  
-:::
-
-
-## Vue相关
-
-::: tip  描述
-[查看文档](../vue/)  
-:::
+``` vue
+<Codes>element.addEventListener</Codes>
+```
+显示效果：<Codes s b>element.addEventListener</Codes>
