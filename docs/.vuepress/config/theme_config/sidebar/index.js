@@ -47,8 +47,12 @@ module.exports = [{
     title: '8. 作用域与作用域链',
     path: '/JavaScript/8'
   }, {
-    title: '9. 事件循环（宏任务、微任务）',
+    title: '9. 事件循环',
     path: '/JavaScript/9'
+  }, {
+    title: '10. 宏任务和微任务',
+    path: '/JavaScript/10'
+    
   }]
 }, {
   title: 'Vue相关',
