@@ -50,7 +50,7 @@ module.exports = [{
     title: '9. 事件循环（宏任务、微任务）',
     path: '/JavaScript/9'
   }, {
-    title: '10. 宏任务和微任务',
+    title: '10. 原型链',
     path: '/JavaScript/10'
     
   }]
