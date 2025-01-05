@@ -56,7 +56,7 @@ module.exports = [{
     title: '11. 对象的集成',
     path: '/JavaScript/11'
   }, {
-    title: '12. 模块化开发',
+    title: '12. 模块化开发（AMD、ES6、CommonJS）',
     path: '/JavaScript/12'
   }, {
     title: '13. 事件委托',
