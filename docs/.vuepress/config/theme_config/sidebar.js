@@ -64,6 +64,9 @@ module.exports = [{
   }, {
     title: '14. 事件冒泡',
     path: '/JavaScript/14'
+  }, {
+    title: '15. 防抖和节流',
+    path: '/JavaScript/15'
   }]
 }, {
   title: 'Vue相关',
