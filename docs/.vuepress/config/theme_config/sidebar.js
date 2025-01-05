@@ -81,6 +81,9 @@ module.exports = [{
   }, {
     title: '19. 对象的创建',
     path: '/JavaScript/19'
+  }, {
+    title: '20. this的指向',
+    path: '/JavaScript/20'
   }]
 }, {
   title: 'Vue相关',
