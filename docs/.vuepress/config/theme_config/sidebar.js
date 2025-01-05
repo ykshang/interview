@@ -78,6 +78,9 @@ module.exports = [{
   }, {
     title: '18. JS异步编程',
     path: '/JavaScript/18'
+  }, {
+    title: '19. 对象的创建',
+    path: '/JavaScript/19'
   }]
 }, {
   title: 'Vue相关',
