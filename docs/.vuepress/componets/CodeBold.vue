@@ -42,8 +42,6 @@ export default {
   padding: 1px 4px;
   font-size: 85%;
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
-  background-color: #ffeee8;
-  color: #ff561b;
 }
 .bold {
   font-weight: bold;

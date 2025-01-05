@@ -26,8 +26,27 @@
 <b>存了一些代码。作参考，不做引用</b>
 
 ``` vue
-<CodeBold>111</CodeBold>
+<!-- t: tip -->
+<!-- w: warn -->
+<!-- e: error -->
+<!-- s: sucess -->
+<!-- b: bold -->
+<CodeBold s>111</CodeBold>
+<CodeBold e>222</CodeBold>
+<CodeBold w>333</CodeBold>
+<CodeBold t>444</CodeBold>
+<CodeBold s b>555</CodeBold>
+<CodeBold e b>666</CodeBold>
 ```
 **显示效果：**
-<CodeBold>111</CodeBold>
+<CodeBold s>111</CodeBold>
+<CodeBold e>222</CodeBold>
+<CodeBold w>333</CodeBold>
+<CodeBold t>444</CodeBold>
+<CodeBold s b>555</CodeBold>
+<CodeBold e b>666</CodeBold>
+
+
+
+
 
