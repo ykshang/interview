@@ -61,7 +61,7 @@ module.exports = [{
     title: '12. 模块化开发（AMD、ES6、CommonJS）',
     path: '/JavaScript/12'
   }, {
-    title: '13. 事件委托',
+    title: '13. IEFI 立即执行函数',
     path: '/JavaScript/13'
   }, {
     title: '14. 事件冒泡、捕获、委托',
