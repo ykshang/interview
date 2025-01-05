@@ -64,7 +64,7 @@ module.exports = [{
     title: '13. 事件委托',
     path: '/JavaScript/13'
   }, {
-    title: '14. 事件冒泡',
+    title: '14. 事件冒泡、捕获、委托',
     path: '/JavaScript/14'
   }, {
     title: '15. 防抖和节流',
