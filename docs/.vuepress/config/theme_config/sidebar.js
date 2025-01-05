@@ -69,6 +69,9 @@ module.exports = [{
   }, {
     title: '15. 防抖和节流',
     path: '/JavaScript/15'
+  }, {
+    title: '16. 判断对象相等',
+    path: '/JavaScript/16'
   }]
 }, {
   title: 'Vue相关',
