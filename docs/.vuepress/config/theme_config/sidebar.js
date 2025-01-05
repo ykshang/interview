@@ -13,6 +13,7 @@ module.exports = [{
   path: '/guide/'
 }, {
   title: '网页基础',
+  path: '/browser/',
   children: [{
     title: '1. 重绘和重排（回流）',
     path: '/browser/1'
@@ -22,6 +23,7 @@ module.exports = [{
   }]
 }, {
   title: 'JS基础',
+  path: '/JavaScript/',
   children: [{
     title: '1. 深拷贝和浅拷贝',
     path: '/JavaScript/1'
@@ -70,6 +72,7 @@ module.exports = [{
   }]
 }, {
   title: 'Vue相关',
+  path: '/vue/',
   children: [{
     title: '1. Vue的组件通信',
     path: '/vue/1'
@@ -82,6 +85,7 @@ module.exports = [{
   }]
 }, {
   title: '网络相关',
+  path: '/network/',
   children: [{
     title: '1. 正向代理和反向代理',
     path: '/network/1'
