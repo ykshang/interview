@@ -16,19 +16,10 @@
 ### 2. b
 
 ``` vue
-<b>111</b>
+<b>11223344</b>
 ```
 **显示效果：**
-<LinkIcon></LinkIcon>
-
-### 2. b
-
-``` vue
-<b>111</b>
-```
-**显示效果：**
-<LinkIcon></LinkIcon>
-
+<b>11223344</b>
 
 ### 3. CodeBold
 
