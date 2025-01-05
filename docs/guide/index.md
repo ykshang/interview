@@ -2,7 +2,7 @@
 
 ## 组件清单
 
-### 1. Codes
+### 1. \<Codes\>
 
 ``` vue
 <Codes>element.addEventListener</Codes>
@@ -13,7 +13,7 @@
 <Codes b>element.addEventListener</Codes>
 
 
-### 2. b
+### 2. \<b\>
 
 ``` vue
 <b>11223344</b>
@@ -21,7 +21,7 @@
 **显示效果：**
 <b>11223344</b>
 
-### 3. CodeBold
+### 3. \<CodeBold\>
 
 <b>存了一些代码。作参考，不做引用</b>
 
