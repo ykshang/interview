@@ -84,6 +84,12 @@ module.exports = [{
   }, {
     title: '20. this的指向',
     path: '/JavaScript/20'
+  }, {
+    title: '21. 严格模式',
+    path: '/JavaScript/21'
+  }, {
+    title: '22. 判断对象的类型',
+    path: '/JavaScript/22'
   }]
 }, {
   title: 'Vue相关',
