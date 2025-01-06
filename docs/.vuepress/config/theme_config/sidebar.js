@@ -55,7 +55,7 @@ module.exports = [{
     title: '10. 原型链',
     path: '/JavaScript/10'
   }, {
-    title: '11. 对象的集成',
+    title: '11. 对象的继承',
     path: '/JavaScript/11'
   }, {
     title: '12. 模块化开发（AMD、ES6、CommonJS）',
