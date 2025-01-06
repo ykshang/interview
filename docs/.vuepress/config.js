@@ -8,6 +8,6 @@ module.exports = {
   markdown: {
     lineNumbers: true // 显示行号
   },
-  plugins: require("./config/plugins/index"),
-  themeConfig: require("./config/theme_config/index") // 主题配置
+  plugins: require("./plugins/index"),
+  themeConfig: require("./config/index") // 主题配置
 }
