@@ -90,6 +90,9 @@ module.exports = [{
   }, {
     title: '22. 判断对象的类型',
     path: '/JavaScript/22'
+  }, {
+    title: '23. JS自定义事件',
+    path: '/JavaScript/23'
   }]
 }, {
   title: 'Vue相关',
