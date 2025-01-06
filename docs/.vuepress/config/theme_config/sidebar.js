@@ -1,6 +1,6 @@
 // {
 //   title: 'Group 1',   // 必要的
-//   path: '/foo/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+//   link: '/foo/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
 //   collapsable: false, // 可选的, 默认值是 true,
 //   sidebarDepth: 1,    // 可选的, 默认值是 1
 //   children: [
@@ -10,105 +10,105 @@
 // 侧边栏配置
 module.exports = [{
   title: 'Hello Word！',
-  path: '/guide/'
+  link: '/guide/'
 }, {
   title: '网页基础',
-  path: '/browser/',
+  link: '/browser/',
   children: [{
     title: '1. 重绘和重排（回流）',
-    path: '/browser/1'
+    link: '/browser/1'
   }, {
     title: '2. 浏览器中输入URL到页面显示的全过程',
-    path: '/browser/2'
+    link: '/browser/2'
   }]
 }, {
   title: 'JS基础',
-  path: '/JavaScript/',
+  link: '/JavaScript/',
   children: [{
     title: '1. 深拷贝和浅拷贝',
-    path: '/JavaScript/1'
+    link: '/JavaScript/1'
   }, {
     title: '2. 内存泄漏',
-    path: '/JavaScript/2'
+    link: '/JavaScript/2'
   }, {
     title: '3. 箭头函数和普通函数的区别',
-    path: '/JavaScript/3'
+    link: '/JavaScript/3'
   }, {
     title: '4. 跨域专题',
-    path: '/JavaScript/4'
+    link: '/JavaScript/4'
   }, {
     title: '5. typeof和instanceof的区别',
-    path: '/JavaScript/5'
+    link: '/JavaScript/5'
   }, {
     title: '6. 数据类型的隐式转换',
-    path: '/JavaScript/6'
+    link: '/JavaScript/6'
   }, {
     title: '7. 闭包',
-    path: '/JavaScript/7'
+    link: '/JavaScript/7'
   }, {
     title: '8. 作用域与作用域链',
-    path: '/JavaScript/8'
+    link: '/JavaScript/8'
   }, {
     title: '9. 事件循环（宏任务、微任务）',
-    path: '/JavaScript/9'
+    link: '/JavaScript/9'
   }, {
     title: '10. 原型链',
-    path: '/JavaScript/10'
+    link: '/JavaScript/10'
   }, {
     title: '11. 对象的集成',
-    path: '/JavaScript/11'
+    link: '/JavaScript/11'
   }, {
     title: '12. 模块化开发（AMD、ES6、CommonJS）',
-    path: '/JavaScript/12'
+    link: '/JavaScript/12'
   }, {
     title: '13. IEFI 立即执行函数',
-    path: '/JavaScript/13'
+    link: '/JavaScript/13'
   }, {
     title: '14. 事件冒泡、捕获、委托',
-    path: '/JavaScript/14'
+    link: '/JavaScript/14'
   }, {
     title: '15. 防抖和节流',
-    path: '/JavaScript/15'
+    link: '/JavaScript/15'
   }, {
     title: '16. 判断对象相等',
-    path: '/JavaScript/16'
+    link: '/JavaScript/16'
   }, {
     title: '17. 对象的遍历',
-    path: '/JavaScript/17'
+    link: '/JavaScript/17'
   }, {
     title: '18. JS异步编程',
-    path: '/JavaScript/18'
+    link: '/JavaScript/18'
   }, {
     title: '19. 对象的创建',
-    path: '/JavaScript/19'
+    link: '/JavaScript/19'
   }, {
     title: '20. this的指向',
-    path: '/JavaScript/20'
+    link: '/JavaScript/20'
   }, {
     title: '21. 严格模式',
-    path: '/JavaScript/21'
+    link: '/JavaScript/21'
   }, {
     title: '22. 判断对象的类型',
-    path: '/JavaScript/22'
+    link: '/JavaScript/22'
   }]
 }, {
   title: 'Vue相关',
-  path: '/vue/',
+  link: '/vue/',
   children: [{
     title: '1. Vue的组件通信',
-    path: '/vue/1'
+    link: '/vue/1'
   }, {
     title: '2. Vuex专题',
-    path: '/vue/2'
+    link: '/vue/2'
   }, {
     title: '3. Vue2和Vue3的区别',
-    path: '/vue/3'
+    link: '/vue/3'
   }]
 }, {
   title: '网络相关',
-  path: '/network/',
+  link: '/network/',
   children: [{
     title: '1. 正向代理和反向代理',
-    path: '/network/1'
+    link: '/network/1'
   }]
 }]
