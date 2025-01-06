@@ -10,7 +10,7 @@
 // 侧边栏配置
 module.exports = [{
   title: 'Hello Word！',
-  path: '/index'
+  path: '/'
 }, {
   title: '网页基础',
   path: '/browser/',
@@ -20,6 +20,9 @@ module.exports = [{
   }, {
     title: '2. 浏览器中输入URL到页面显示的全过程',
     path: '/browser/2'
+  }, {
+    title: '3. 前端路由',
+    path: '/browser/3'
   }]
 }, {
   title: 'JS基础',
