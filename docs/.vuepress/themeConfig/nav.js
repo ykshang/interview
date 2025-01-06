@@ -1,7 +1,7 @@
 
 // 导航栏配置
 module.exports = [{
-  text: '欢迎',
+  text: '首页',
   link: '/'
 }, {
   text: '目录',

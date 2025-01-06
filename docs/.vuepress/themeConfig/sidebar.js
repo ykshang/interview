@@ -9,7 +9,7 @@
 // },
 // 侧边栏配置
 module.exports = [{
-  title: 'Hello Word！',
+  title: '首页',
   path: '/'
 }, {
   title: '网页基础',
