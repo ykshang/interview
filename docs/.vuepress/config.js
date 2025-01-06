@@ -9,5 +9,5 @@ module.exports = {
     lineNumbers: true // 显示行号
   },
   plugins: require("./plugins/index"),
-  themeConfig: require("./config/index") // 主题配置
+  themeConfig: require("./themeConfig/index") // 主题配置
 }
