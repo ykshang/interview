@@ -64,7 +64,7 @@ module.exports = [{
     title: '13. IEFI 立即执行函数',
     path: '/JavaScript/13'
   }, {
-    title: '14. 事件冒泡、捕获、委托',
+    title: '14. 事件绑定、冒泡、捕获、委托',
     path: '/JavaScript/14'
   }, {
     title: '15. 防抖和节流',
