@@ -93,6 +93,9 @@ module.exports = [{
   }, {
     title: '23. JS自定义事件',
     path: '/JavaScript/23'
+  }, {
+    title: '24. 定时器setTimeout()、setInterval()、requestAnimationFrame()',
+    path: '/JavaScript/24'
   }]
 }, {
   title: 'Vue相关',

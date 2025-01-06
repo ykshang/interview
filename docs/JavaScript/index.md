@@ -23,3 +23,4 @@
 21. [严格模式](./21)
 22. [判断对象的类型](./22)
 23. [JS 自定义事件](./23)
+24. [定时器 setTimeout()、setInterval()、requestAnimationFrame()](./24)
