@@ -4,7 +4,7 @@ module.exports = {
   logo: '/assets/img/logo.gif', // 导航栏的logo
   nextLinks: true,
   prevLinks: true,
-  nav: require("./nav/index"), // 导航栏右侧的链接配置
+  nav: require("./nav"), // 导航栏右侧的链接配置
   // sidebar: 'auto', // 自动将打开的页面输出导航至侧边栏
   sidebar: require("./sidebar"), // 侧边栏配置
   lastUpdated: "最后更新", // 文档的最后更新时间 可选值: string | boolean
