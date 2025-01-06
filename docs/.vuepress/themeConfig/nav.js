@@ -2,7 +2,7 @@
 // 导航栏配置
 module.exports = [{
   text: '欢迎',
-  link: '/guide/'
+  link: '/'
 }, {
   text: '目录',
   items: [
