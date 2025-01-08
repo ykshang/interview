@@ -108,7 +108,9 @@ module.exports = [{
   }, {
     title: '27. Call、Apply、Bind 的区别',
     path: '/JavaScript/27'
-    
+  }, {
+    title: '28. 值域 this 指向',
+    path: '/JavaScript/28'
   }]
 }, {
   title: 'Vue相关',
