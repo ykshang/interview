@@ -99,6 +99,9 @@ module.exports = [{
   }, {
     title: '24. 定时器setTimeout()、setInterval()、requestAnimationFrame()',
     path: '/JavaScript/24'
+  }, {
+    title: '25. JS 脚本的阻塞特性',
+    path: '/JavaScript/25'
   }]
 }, {
   title: 'Vue相关',

@@ -24,3 +24,4 @@
 22. [判断对象的类型](./22)
 23. [JS 自定义事件](./23)
 24. [定时器 setTimeout()、setInterval()、requestAnimationFrame()](./24)
+25. [JS 脚本的阻塞特性](./25)
