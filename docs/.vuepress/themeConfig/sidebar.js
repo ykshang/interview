@@ -114,6 +114,9 @@ module.exports = [{
   }, {
     title: '29. 数组去重',
     path: '/JavaScript/29'
+  }, {
+    title: '30. Generator 函数',
+    path: '/JavaScript/30'
   }]
 }, {
   title: 'Vue相关',
