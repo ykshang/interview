@@ -111,6 +111,9 @@ module.exports = [{
   }, {
     title: '28. 值域 this 指向',
     path: '/JavaScript/28'
+  }, {
+    title: '29. 数组去重',
+    path: '/JavaScript/29'
   }]
 }, {
   title: 'Vue相关',
