@@ -25,4 +25,5 @@
 23. [JS 自定义事件](./23)
 24. [定时器 setTimeout()、setInterval()、requestAnimationFrame()](./24)
 25. [JS 脚本的阻塞特性](./25)
-25. [解构赋值](./26)
+26. [解构赋值](./26)
+27. [Call、Apply、Bind 的区别](./27)

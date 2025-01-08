@@ -105,6 +105,9 @@ module.exports = [{
   }, {
     title: '26. 解构赋值',
     path: '/JavaScript/26'
+  }, {
+    title: '27. Call、Apply、Bind 的区别',
+    path: '/JavaScript/27'
     
   }]
 }, {
