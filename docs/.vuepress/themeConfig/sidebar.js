@@ -102,6 +102,10 @@ module.exports = [{
   }, {
     title: '25. JS 脚本的阻塞特性',
     path: '/JavaScript/25'
+  }, {
+    title: '26. 解构赋值',
+    path: '/JavaScript/26'
+    
   }]
 }, {
   title: 'Vue相关',
