@@ -117,7 +117,13 @@ module.exports = [{
   }, {
     title: '30. Generator 函数',
     path: '/JavaScript/30'
-  }]
+  }, {
+    title: '31. WebSocket 专题',
+    path: '/JavaScript/31'
+  }, {
+    title: '32. 什么是并发和并行？JavaScript 中如何实现并发操作？',
+    path: '/JavaScript/32'
+    }]
 }, {
   title: 'Vue相关',
   path: '/vue/',
