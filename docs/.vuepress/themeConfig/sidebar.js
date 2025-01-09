@@ -149,6 +149,9 @@ module.exports = [{
   }, {
     title: '3. 二分查找算法',
     path: '/Algorithm/3'
+  }, {
+    title: '4. 先序遍历、中序遍历、后序遍历',
+    path: '/Algorithm/4'
   }]
 }, {
   title: '网络相关',
