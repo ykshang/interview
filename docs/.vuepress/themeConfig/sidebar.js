@@ -138,6 +138,13 @@ module.exports = [{
     path: '/vue/3'
   }]
 }, {
+  title: '算法',
+  path: '/Algorithm/',
+  children: [{
+    title: '1. 发布/订阅模式',
+    path: '/Algorithm/1'
+  }]
+}, {
   title: '网络相关',
   path: '/network/',
   children: [{
