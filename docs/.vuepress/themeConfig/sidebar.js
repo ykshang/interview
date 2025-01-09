@@ -146,6 +146,9 @@ module.exports = [{
   }, {
     title: '2. 快速排序算法',
     path: '/Algorithm/2'
+  }, {
+    title: '3. 二分查找算法',
+    path: '/Algorithm/3'
   }]
 }, {
   title: '网络相关',
