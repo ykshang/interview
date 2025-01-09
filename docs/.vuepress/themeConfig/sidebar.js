@@ -123,7 +123,7 @@ module.exports = [{
   }, {
     title: '32. 什么是并发和并行？JavaScript 中如何实现并发操作？',
     path: '/JavaScript/32'
-    }]
+  }]
 }, {
   title: 'Vue相关',
   path: '/vue/',
@@ -143,6 +143,9 @@ module.exports = [{
   children: [{
     title: '1. 发布/订阅模式',
     path: '/Algorithm/1'
+  }, {
+    title: '2. 快速排序算法',
+    path: '/Algorithm/2'
   }]
 }, {
   title: '网络相关',
