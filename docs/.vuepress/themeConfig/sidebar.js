@@ -31,7 +31,7 @@ module.exports = [{
     title: '1. 深拷贝和浅拷贝',
     path: '/JavaScript/1'
   }, {
-    title: '2. 内存泄漏',
+    title: '2. 内存泄漏 *',
     path: '/JavaScript/2'
   }, {
     title: '3. 箭头函数和普通函数的区别',
@@ -115,7 +115,7 @@ module.exports = [{
     title: '29. 数组去重',
     path: '/JavaScript/29'
   }, {
-    title: '30. Generator 函数',
+    title: '30. Generator 函数 *',
     path: '/JavaScript/30'
   }, {
     title: '31. WebSocket 专题',
@@ -134,7 +134,7 @@ module.exports = [{
     title: '2. Vuex专题',
     path: '/vue/2'
   }, {
-    title: '3. Vue2和Vue3的区别',
+    title: '3. Vue2和Vue3的区别 *',
     path: '/vue/3'
   }]
 }, {
