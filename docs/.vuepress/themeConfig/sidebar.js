@@ -152,6 +152,9 @@ module.exports = [{
   }, {
     title: '4. 先序遍历、中序遍历、后序遍历',
     path: '/Algorithm/4'
+  }, {
+    title: '5. 观察者模式',
+    path: '/Algorithm/5'
   }]
 }, {
   title: '网络相关',
