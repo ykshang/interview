@@ -159,7 +159,7 @@ module.exports = [{
     path: '/vue/14'
   }, {
     title: '15. 如何利用路由守卫实现鉴权 *',
-    path: '/1vue/15'
+    path: '/vue/15'
   }]
 }, {
   title: '算法',
