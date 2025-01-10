@@ -128,7 +128,7 @@ module.exports = [{
   title: 'Vue相关',
   path: '/vue/',
   children: [{
-    title: '1. 什么是Vue，Vue的优势',
+    title: '1. Vue的基本介绍',
     path: '/vue/1'
   }, {
     title: '2. Vuex专题',
