@@ -139,6 +139,9 @@ module.exports = [{
   }, {
     title: '4. Vue的组件通信',
     path: '/vue/4'
+  }, {
+    title: '5. 如何利用路由守卫实现鉴权 *',
+    path: '/vue/5'
   }]
 }, {
   title: '算法',
