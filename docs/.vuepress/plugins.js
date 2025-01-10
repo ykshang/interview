@@ -1,6 +1,7 @@
 module.exports = [
   'reading-progress',
   "vuepress-plugin-gotop-plus",
+  "vuepress-plugin-mermaidjs",
   [
     'vuepress-plugin-helper-live2d',
     {
