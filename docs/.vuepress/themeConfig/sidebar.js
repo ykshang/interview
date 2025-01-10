@@ -131,17 +131,35 @@ module.exports = [{
     title: '1. Vue的基本介绍',
     path: '/vue/1'
   }, {
-    title: '2. Vuex专题',
+    title: '2. 指令、自定义指令 directive',
     path: '/vue/2'
   }, {
-    title: '3. Vue2和Vue3的区别 *',
+    title: '3. 计算属性 computed',
     path: '/vue/3'
   }, {
-    title: '4. Vue的组件通信',
+    title: '4. 监听属性 watch',
     path: '/vue/4'
   }, {
-    title: '5. 如何利用路由守卫实现鉴权 *',
+    title: '5. 计算属性和监听属性的区别',
     path: '/vue/5'
+  }, {
+    title: '6. 过滤器 filter',
+    path: '/vue/6'
+  }, {
+    title: '7. 混入 mixin',
+    path: '/vue/7'
+  }, {
+    title: '12. Vuex专题',
+    path: '/vue/12'
+  }, {
+    title: '13. Vue2和Vue3的区别 *',
+    path: '/vue/13'
+  }, {
+    title: '14. Vue的组件通信',
+    path: '/vue/14'
+  }, {
+    title: '15. 如何利用路由守卫实现鉴权 *',
+    path: '/1vue/15'
   }]
 }, {
   title: '算法',
