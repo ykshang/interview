@@ -1,5 +1,5 @@
 {
-  "name": "interview",
+  "name": "MyInterviewDocs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ykshang/interview.git"
+    "url": "git+https://github.com/ykshang/MyInterviewDocs.git"
   },
   "author": {
     "name": "kangkang shang",
@@ -17,9 +17,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ykshang/interview/issues"
+    "url": "https://github.com/ykshang/MyInterviewDocs/issues"
   },
-  "homepage": "https://github.com/ykshang/interview#readme",
+  "homepage": "https://github.com/ykshang/MyInterviewDocs#readme",
   "devDependencies": {
     "eslint": "^7.16.0",
     "eslint-config-airbnb-base": "^14.2.1",

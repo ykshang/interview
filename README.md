@@ -38,7 +38,7 @@ git add -A
 git commit -m 'Automatic build'
 
 # 发布到gh-pages分支
-git push -f git@github.com:ykshang/interview.git master:gh-pages
+git push -f git@github.com:ykshang/MyInterviewDocs.git master:gh-pages
 
 cd -
 ```

@@ -1,6 +1,6 @@
 module.exports = {
   title: '常见面试题', // 导航栏左侧的标题
-  base: '/interview/',
+  base: '/MyInterviewDocs/',
   head: [
     ['link', { rel: 'shortcut icon', type: "image/x-icon", href: "/logo.png" }] // 网页favicon
   ],
