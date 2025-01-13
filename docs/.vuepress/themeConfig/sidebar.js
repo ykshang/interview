@@ -152,6 +152,9 @@ module.exports = [{
     title: '8. 插槽',
     path: '/vue/8'
   }, {
+    title: '9. nextTick()',
+    path: '/vue/9'
+  }, {
     title: '12. Vuex专题',
     path: '/vue/12'
   }, {
