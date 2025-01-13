@@ -169,6 +169,12 @@ module.exports = [{
   }, {
     title: '15. 如何利用路由守卫实现鉴权 *',
     path: '/vue/15'
+  }, {
+    title: '16. Vue3 中的Composition API是什么？它与Options API有什么区别？',
+    path: '/vue/16'
+  }, {
+    title: '17. Vue3 如何实现性能的提升？',
+    path: '/vue/17'
   }]
 }, {
   title: '算法',
