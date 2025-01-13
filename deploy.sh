@@ -20,6 +20,6 @@ git commit -m 'Automatic build'
 
 # 发布到gh-pages分支
 git checkout -B master
-git push -f git@github.com:ykshang/MyInterviewDocs.git mai:gh-pages
+git push -f git@github.com:ykshang/MyInterviewDocs.git master:gh-pages
 
 cd -
