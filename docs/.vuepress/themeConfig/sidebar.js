@@ -155,6 +155,9 @@ module.exports = [{
     title: '9. nextTick()',
     path: '/vue/9'
   }, {
+    title: '10. 为什么 Vue 的 data 要使用函数 return',
+    path: '/vue/10'
+  }, {
     title: '12. Vuex专题',
     path: '/vue/12'
   }, {
