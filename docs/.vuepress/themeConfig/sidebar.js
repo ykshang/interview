@@ -149,6 +149,9 @@ module.exports = [{
     title: '7. 混入 mixin',
     path: '/vue/7'
   }, {
+    title: '8. 插槽',
+    path: '/vue/8'
+  }, {
     title: '12. Vuex专题',
     path: '/vue/12'
   }, {
