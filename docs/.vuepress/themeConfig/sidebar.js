@@ -175,6 +175,24 @@ module.exports = [{
   }, {
     title: '17. Vue3 如何实现性能的提升？',
     path: '/vue/17'
+  }, {
+    title: '18. Vue3 中的 v-model 指令有什么变化？',
+    path: '/vue/18'
+  }, {
+    title: '19. Vue3 Teleport 组件',
+    path: '/vue/19'
+  }, {
+    title: '20. Vue3 Suspense 组件',
+    path: '/vue/20'
+  }, {
+    title: '21. Vue3 Fragments 组件',
+    path: '/vue/21'
+  }, {
+    title: '22. Vue3 中的静态提升是什么？它如何优化组件的渲染性能？',
+    path: '/vue/22'
+  }, {
+    title: '23. Vue3 中的渐进式图片加载如何实现',
+    path: '/vue/23'
   }]
 }, {
   title: '算法',
