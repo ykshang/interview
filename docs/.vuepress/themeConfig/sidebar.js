@@ -196,6 +196,9 @@ module.exports = [{
   }, {
     title: '24. Vue3 中的异步组件如何加载？',
     path: '/vue/24'
+  }, {
+    title: '25. Transition 动画',
+    path: '/vue/25'
   }]
 }, {
   title: '算法',
