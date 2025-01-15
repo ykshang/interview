@@ -206,7 +206,7 @@ module.exports = [{
     title: '26. Vue 中的 SSR 是什么？有什么优势和适用场景？',
     path: '/vue/26'
   }, {
-    title: '27. Vue3 中虚拟滚动列表',
+    title: '27. Vue3 实现滚动列表',
     path: '/vue/27'
   }]
 }, {
