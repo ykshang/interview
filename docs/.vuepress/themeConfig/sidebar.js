@@ -193,6 +193,9 @@ module.exports = [{
   }, {
     title: '23. Vue3 中的渐进式图片加载如何实现',
     path: '/vue/23'
+  }, {
+    title: '24. Vue3 中的异步组件如何加载？',
+    path: '/vue/24'
   }]
 }, {
   title: '算法',
