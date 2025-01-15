@@ -167,7 +167,7 @@ module.exports = [{
     title: '14. Vue的组件通信',
     path: '/vue/14'
   }, {
-    title: '15. 如何利用路由守卫实现鉴权 *',
+    title: '15. 如何利用路由守卫实现鉴权',
     path: '/vue/15'
   }, {
     title: '16. Vue3 中的Composition API是什么？它与Options API有什么区别？',
