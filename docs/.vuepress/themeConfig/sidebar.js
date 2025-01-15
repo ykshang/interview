@@ -155,7 +155,7 @@ module.exports = [{
     title: '9. nextTick()',
     path: '/vue/9'
   }, {
-    title: '10. Transition 动画',
+    title: '10. Transition 过渡效果',
     path: '/vue/10'
   }, {
     title: '12. Vuex专题',
