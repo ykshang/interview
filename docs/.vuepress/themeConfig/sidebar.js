@@ -158,6 +158,9 @@ module.exports = [{
     title: '10. Transition 过渡效果',
     path: '/vue/10'
   }, {
+    title: '11. TransitionGroup 组动画',
+    path: '/vue/11'
+  }, {
     title: '12. Vuex专题',
     path: '/vue/12'
   }, {
@@ -199,6 +202,9 @@ module.exports = [{
   }, {
     title: '25. 为什么 Vue 的 data 要使用函数 return',
     path: '/vue/25'
+  }, {
+    title: '26. Vue 中的 SSR 是什么？有什么优势和适用场景？',
+    path: '/vue/26'
   }]
 }, {
   title: '算法',
