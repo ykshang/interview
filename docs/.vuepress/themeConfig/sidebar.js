@@ -155,7 +155,7 @@ module.exports = [{
     title: '9. nextTick()',
     path: '/vue/9'
   }, {
-    title: '10. 为什么 Vue 的 data 要使用函数 return',
+    title: '10. Transition 动画',
     path: '/vue/10'
   }, {
     title: '12. Vuex专题',
@@ -197,7 +197,7 @@ module.exports = [{
     title: '24. Vue3 中的异步组件如何加载？',
     path: '/vue/24'
   }, {
-    title: '25. Transition 动画',
+    title: '25. 为什么 Vue 的 data 要使用函数 return',
     path: '/vue/25'
   }]
 }, {
