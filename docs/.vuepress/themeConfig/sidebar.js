@@ -234,5 +234,8 @@ module.exports = [{
   children: [{
     title: '1. 正向代理和反向代理',
     path: '/network/1'
+  }, {
+    title: '2. HTTP协议的核心概念和工作原理',
+    path: '/network/2'
   }]
 }]
