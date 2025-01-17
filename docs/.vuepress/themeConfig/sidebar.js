@@ -237,5 +237,9 @@ module.exports = [{
   }, {
     title: '2. HTTP协议的核心概念和工作原理',
     path: '/network/2'
+  }, {
+    title: '3. HTTP的请求方法有哪些? 请分别描述GET、POST、PUT和DELETE方法的作用',
+    path: '/network/3'
+
   }]
 }]
