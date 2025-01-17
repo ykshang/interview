@@ -235,7 +235,7 @@ module.exports = [{
     title: '1. 正向代理和反向代理',
     path: '/network/1'
   }, {
-    title: '2. HTTP协议的核心概念和工作原理',
+    title: '2. Http协议',
     path: '/network/2'
   }, {
     title: '3. HTTP的请求方法有哪些? 请分别描述GET、POST、PUT和DELETE方法的作用',
