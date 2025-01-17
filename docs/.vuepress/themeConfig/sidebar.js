@@ -238,7 +238,7 @@ module.exports = [{
     title: '2. Http协议',
     path: '/network/2'
   }, {
-    title: '3. HTTP的请求方法有哪些? 请分别描述GET、POST、PUT和DELETE方法的作用',
+    title: '3. 会话 Cookie和Session',
     path: '/network/3'
 
   }]
