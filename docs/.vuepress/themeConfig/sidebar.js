@@ -264,5 +264,9 @@ module.exports = [{
   }, {
     title: '13. CDN 加速',
     path: '/network/13'
+  }, {
+    title: '14. GraphQL',
+    path: '/network/14'
+
   }]
 }]
