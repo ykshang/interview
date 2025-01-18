@@ -243,5 +243,8 @@ module.exports = [{
   }, {
     title: '5. 跨域',
     path: '/network/5'
+  }, {
+    title: '6. Restful API',
+    path: '/network/6'
   }]
 }]
