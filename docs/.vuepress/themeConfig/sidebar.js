@@ -37,9 +37,6 @@ module.exports = [{
     title: '3. 箭头函数和普通函数的区别',
     path: '/JavaScript/3'
   }, {
-    title: '4. 跨域专题',
-    path: '/JavaScript/4'
-  }, {
     title: '5. typeof和instanceof的区别',
     path: '/JavaScript/5'
   }, {
@@ -240,6 +237,8 @@ module.exports = [{
   }, {
     title: '3. 会话 Cookie和Session',
     path: '/network/3'
-
+  }, {
+    title: '4. 跨域专题',
+    path: '/network/4'
   }]
 }]
