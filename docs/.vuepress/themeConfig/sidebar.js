@@ -250,7 +250,7 @@ module.exports = [{
     title: '8. WebSocket 专题',
     path: '/network/8'
   }, {
-    title: '9. 缓存的分类和机制',
+    title: '9. Http缓存、Web缓存',
     path: '/network/9'
   }, {
     title: '10. ETag',
