@@ -249,5 +249,8 @@ module.exports = [{
   }, {
     title: '8. WebSocket 专题',
     path: '/network/8'
+  }, {
+    title: '9. 缓存的分类和机制',
+    path: '/network/9'
   }]
 }]
