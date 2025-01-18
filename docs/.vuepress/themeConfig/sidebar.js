@@ -261,5 +261,8 @@ module.exports = [{
   }, {
     title: '12. 正向代理和反向代理',
     path: '/network/12'
+  }, {
+    title: '13. CDN 加速',
+    path: '/network/13'
   }]
 }]
