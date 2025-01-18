@@ -6,4 +6,4 @@
 4. [同源策略、CORS](./4)
 5. [跨域](./5)
 6. [Restful 风格 API](./6)
-7. [Fetch API](./7)
+7. [AJAX、Fetch API](./7)
