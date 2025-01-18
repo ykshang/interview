@@ -5,4 +5,5 @@
 3. [会话 Cookie 和 Session](./3)
 4. [同源策略、CORS](./4)
 5. [跨域](./5)
-6. [Restful API](./6)
+6. [Restful 风格 API](./6)
+7. [Fetch API](./7)
