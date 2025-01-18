@@ -244,7 +244,7 @@ module.exports = [{
     title: '6. Restful 风格 API',
     path: '/network/6'
   }, {
-    title: '7. AJAX、Fetch API',
+    title: '7. XMLHttpRequest、AJAX、Fetch API',
     path: '/network/7'
   }, {
     title: '8. WebSocket 专题',

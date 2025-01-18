@@ -6,7 +6,7 @@
 4. [同源策略、CORS](./4)
 5. [跨域](./5)
 6. [Restful 风格 API](./6)
-7. [AJAX、Fetch API](./7)
+7. [XMLHttpRequest、AJAX、Fetch API](./7)
 8. [WebSocket 专题](./8)
 9. [Http 缓存、Web 缓存](./9)
 10. [ETag](./10)
