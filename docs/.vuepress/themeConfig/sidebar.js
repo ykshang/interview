@@ -252,5 +252,14 @@ module.exports = [{
   }, {
     title: '9. 缓存的分类和机制',
     path: '/network/9'
+  }, {
+    title: '10. ETag',
+    path: '/network/10'
+  }, {
+    title: '11. Gzip 压缩',
+    path: '/network/11'
+  }, {
+    title: '12. HTTPS 协议',
+    path: '/network/12'
   }]
 }]
