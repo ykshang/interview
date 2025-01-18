@@ -226,10 +226,10 @@ module.exports = [{
   title: '网络相关',
   path: '/network/',
   children: [{
-    title: '1. 正向代理和反向代理',
+    title: '1. Http协议',
     path: '/network/1'
   }, {
-    title: '2. Http协议',
+    title: '2. HTTPS 协议',
     path: '/network/2'
   }, {
     title: '3. 会话 Cookie和Session',
@@ -259,7 +259,7 @@ module.exports = [{
     title: '11. Gzip 压缩',
     path: '/network/11'
   }, {
-    title: '12. HTTPS 协议',
+    title: '12. 正向代理和反向代理',
     path: '/network/12'
   }]
 }]
