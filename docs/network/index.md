@@ -7,3 +7,4 @@
 5. [跨域](./5)
 6. [Restful 风格 API](./6)
 7. [AJAX、Fetch API](./7)
+8. [WebSocket 专题](./8)
