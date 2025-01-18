@@ -238,7 +238,10 @@ module.exports = [{
     title: '3. 会话 Cookie和Session',
     path: '/network/3'
   }, {
-    title: '4. 同源策略、CORS、跨域',
+    title: '4. 同源策略、CORS',
     path: '/network/4'
+  }, {
+    title: '5. 跨域',
+    path: '/network/5'
   }]
 }]
