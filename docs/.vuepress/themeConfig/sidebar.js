@@ -273,5 +273,8 @@ module.exports = [{
   }, {
     title: '16. 带宽和吞吐量',
     path: '/network/16'
+  }, {
+    title: '17. DNS、DNS 解析',
+    path: '/network/17'
   }]
 }]
