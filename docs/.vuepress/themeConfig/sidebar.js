@@ -286,5 +286,8 @@ module.exports = [{
   children: [{
     title: '1. Node.js',
     path: '/nodejs/1'
+  }, {
+    title: '2. Node.js',
+    path: '/nodejs/2' 
   }]
 }]
