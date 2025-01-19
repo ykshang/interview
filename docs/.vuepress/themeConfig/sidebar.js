@@ -280,4 +280,11 @@ module.exports = [{
     title: '18. 网络安全及常见的网络攻击手段',
     path: '/network/18'
   }]
+}, {
+  title: 'Node.js',
+  path: '/nodejs/',
+  children: [{
+    title: '1. Node.js',
+    path: '/nodejs/1'
+  }]
 }]
