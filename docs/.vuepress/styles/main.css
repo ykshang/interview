@@ -8,6 +8,7 @@
 .theme-default-content>ol>li>p>code,
 .theme-default-content>ol>li>a>code,
 .theme-default-content>ol>li>strong>code,
+.theme-default-content>table>tbody>tr>td>code,
 .theme-default-content>.custom-block.tip>p>code,
 .theme-default-content>.custom-block.tip>ol>li>code,
 .theme-default-content>.custom-block.tip>ol>li>code,
@@ -17,6 +18,8 @@
   background-color: #ffeee8 !important;
   color: #ff561b !important;
   font-weight: bold;
+  font-size: 0.9rem;
+  padding: 0.13rem 0.4rem;
 }
 
 .theme-default-content>div>p>code {
