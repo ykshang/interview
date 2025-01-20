@@ -295,5 +295,8 @@ module.exports = [{
   }, {
     title: '4、NPM 包管理器',
     path: '/nodejs/4'
+  }, {
+    title: '5、NPM、PNPM、Yarn 的对比',
+    path: '/nodejs/5'
   }]
 }]
