@@ -298,5 +298,8 @@ module.exports = [{
   }, {
     title: '5、NPM、PNPM、Yarn 的对比',
     path: '/nodejs/5'
+  }, {
+    title: '6、软链接和硬链接',
+    path: '/nodejs/6'
   }]
 }]
