@@ -292,5 +292,8 @@ module.exports = [{
   }, {
     title: '3、Node.js 和 浏览器之间的区别',
     path: '/nodejs/3'
+  }, {
+    title: '4、NPM 包管理器',
+    path: '/nodejs/4'
   }]
 }]
